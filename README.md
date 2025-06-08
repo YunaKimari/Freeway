@@ -36,6 +36,8 @@ Este projeto está licenciado sob a Licença MIT.
 - YunaKimari (Denise Rocha)
 - GitHub: github.com/YunaKimari
 
+---
+
 ## Freeway
 A small version based on Atari's classic Freeway (1981) game.
 
