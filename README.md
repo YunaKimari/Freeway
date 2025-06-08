@@ -18,12 +18,14 @@ Este projeto é uma recriação simples do clássico jogo Freeway, desenvolvido 
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
-
+```
 git clone https://github.com/YunaKimari/Freeway.git
+```
 
 ##### 2. Navegue até o diretório do projeto:
-
+```
 cd Freeway
+```
 
 ##### 3. Abra o arquivo Freeway.js em um navegador ou utilize um servidor local para executá-lo.
 
@@ -31,7 +33,8 @@ cd Freeway
 Este projeto está licenciado sob a Licença MIT.
 
 ## 👤 Autor
-YunaKimari (Denise Rocha)
+- YunaKimari (Denise Rocha)
+- GitHub: github.com/YunaKimari
 
 ## Freeway
 A small version based on Atari's classic Freeway (1981) game.
@@ -53,12 +56,14 @@ This project is a simple recreation of the classic Freeway game, developed in Ja
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
-
+```
 git clone https://github.com/YunaKimari/Freeway.git
+```
 
 ##### 2. Navigate to the project directory:
-
+```
 cd Freeway
+```
 
 ##### 3. Open the Freeway.js file in a browser or use a local server to run it.
 
@@ -66,4 +71,5 @@ cd Freeway
 This project is licenced under the MIT License.
 
 ## 👤 Author
-YunaKimari (Denise Rocha)
+- YunaKimari (Denise Rocha)
+- GitHub: github.com/YunaKimari
