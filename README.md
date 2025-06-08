@@ -14,6 +14,7 @@ Este projeto é uma recriação simples do clássico jogo Freeway, desenvolvido 
 - Freeway.js: Arquivo principal contendo a lógica do jogo.
 - Freeway: Pasta contendo as imagens.
 - Sons: Pasta contendo os sons e a trilha sonora utilizada no jogo.
+- README.md: Este arquivo (em português e em inglês).
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
@@ -25,6 +26,9 @@ git clone https://github.com/YunaKimari/Freeway.git
 cd Freeway
 
 ##### 3. Abra o arquivo Freeway.js em um navegador ou utilize um servidor local para executá-lo.
+
+## 📄 Licença
+Este projeto está licenciado sob a Licença MIT.
 
 ## 👤 Autor
 YunaKimari (Denise Rocha)
@@ -45,6 +49,7 @@ This project is a simple recreation of the classic Freeway game, developed in Ja
 - Freeway.js: Main file containing the game logic.
 - Freeway: Folder containing the game images.
 - Sons: Folder containing sound effects and background music.
+- README.md: This file (in Portuguese and in English).
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
@@ -56,6 +61,9 @@ git clone https://github.com/YunaKimari/Freeway.git
 cd Freeway
 
 ##### 3. Open the Freeway.js file in a browser or use a local server to run it.
+
+## 📄 License
+This project is licenced under the MIT License.
 
 ## 👤 Author
 YunaKimari (Denise Rocha)
