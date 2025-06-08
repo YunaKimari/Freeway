@@ -28,3 +28,34 @@ cd Freeway
 
 ## 👤 Autor
 YunaKimari (Denise Rocha)
+
+## Freeway
+A small version based on Atari's classic Freeway (1981) game.
+
+## 🎮 About the project
+This project is a simple recreation of the classic Freeway game, developed in JavaScript. The goal is to provide a nostalgic experience and demonstrate basic game development concepts.
+
+## 🔧 Features
+- Player-controlled character movement.
+- Collision detection between the character and obstacles.
+- Scoring system based on player progression.
+- Sound effects for events like collisions and scoring.
+
+## 📁 Project structure
+- Freeway.js: Main file containing the game logic.
+- Freeway: Folder containing the game images.
+- Sons: Folder containing sound effects and background music.
+
+## 🚀 How to run
+##### 1. Clone the repository:
+
+git clone https://github.com/YunaKimari/Freeway.git
+
+##### 2. Navigate to the project directory:
+
+cd Freeway
+
+##### 3. Open the Freeway.js file in a browser or use a local server to run it.
+
+## 👤 Author
+YunaKimari (Denise Rocha)
