@@ -11,10 +11,10 @@ Este projeto é uma recriação simples do clássico jogo Freeway, desenvolvido 
 - Efeitos sonoros para eventos como colisão e pontos.
 
 ## 📁 Estrutura do projeto
-- Freeway.js: Arquivo principal contendo a lógica do jogo.
-- Freeway: Pasta contendo as imagens.
-- Sons: Pasta contendo os sons e a trilha sonora utilizada no jogo.
-- README.md: Este arquivo (em português e em inglês).
+- `Freeway.js`: Arquivo principal contendo a lógica do jogo.
+- `Freeway`: Pasta contendo as imagens.
+- `Sons`: Pasta contendo os sons e a trilha sonora utilizada no jogo.
+- `README.md`: Este arquivo (em português e em inglês).
 
 ## 🚀 Como executar
 ##### 1. Clone o repositório:
@@ -51,10 +51,10 @@ This project is a simple recreation of the classic Freeway game, developed in Ja
 - Sound effects for events like collisions and scoring.
 
 ## 📁 Project structure
-- Freeway.js: Main file containing the game logic.
-- Freeway: Folder containing the game images.
-- Sons: Folder containing sound effects and background music.
-- README.md: This file (in Portuguese and in English).
+- `Freeway.js`: Main file containing the game logic.
+- `Freeway`: Folder containing the game images.
+- `Sons`: Folder containing sound effects and background music.
+- `README.md`: This file (in both Portuguese and English).
 
 ## 🚀 How to run
 ##### 1. Clone the repository:
