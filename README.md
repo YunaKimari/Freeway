@@ -1,4 +1,6 @@
-## Freeway ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+## Freeway 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+
 Uma pequena versão baseada no jogo Freeway (1981) do Atari.
 
 ## 🎮 Sobre o projeto
@@ -38,7 +40,9 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## Freeway ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+## Freeway 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+
 A small version based on Atari's classic Freeway (1981) game.
 
 ## 🎮 About the project
